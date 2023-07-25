@@ -8,7 +8,7 @@ alabaster==0.7.12
     # via sphinx
 babel==2.10.3
     # via sphinx
-certifi==2022.6.15
+certifi==2023.7.22
     # via requests
 charset-normalizer==2.1.0
     # via requests
@@ -22,8 +22,6 @@ docutils==0.17.1
 idna==3.3
     # via requests
 imagesize==1.4.1
-    # via sphinx
-importlib-metadata==4.12.0
     # via sphinx
 jinja2==3.1.2
     # via
@@ -88,5 +86,3 @@ typing-extensions==4.3.0
     # via myst-parser
 urllib3==1.26.9
     # via requests
-zipp==3.8.0
-    # via importlib-metadata
